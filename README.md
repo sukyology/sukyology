@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sukyology&show_icons=true&locale=en&count_private=true&theme=merko" alt="sukyology" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukyology&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukyology&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
